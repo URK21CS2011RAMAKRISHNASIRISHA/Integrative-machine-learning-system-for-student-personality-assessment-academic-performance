@@ -1,0 +1,2 @@
+# Integrative-machine-learning-system-for-student-personality-assessment-academic-performance
+This project aims to develop an integrative machine learning system that assesses students' personalities and enhances academic performance through data-driven personalization. By analyzing psychometric test results, behavioral patterns, and academic records, the system predicts performance trends and identifies areas needing support.
